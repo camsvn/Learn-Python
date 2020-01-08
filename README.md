@@ -3,7 +3,7 @@ This Repository consists of Simple Application Programs built using Python Progr
 
 ## Birthday.py
 A Simple program, calculates the age and number of days left for his/her birthday.
-* __USING__     :  *datetime module* within a *Class*
+* **USING**     :  *datetime module* within a *Class*
 * __INPUT__     :  Birthday
 * __OUTPUT__    :  Prints the *age* and number of *days, hours, minutes* and *seconds* until next birthday
 
@@ -12,3 +12,9 @@ A Simple program, plays the morse code equivalent to a message
 * __USING__     :  *time module* and *winsound module*
 * __INPUT__     :  Message String
 * __OUTPUT__    :  Plays the morse code equivalent of the message
+
+## Hacker Earth Coding Challenge.ipynb
+
+Includes *two challenges*:
+* **Little Shino and Common factors** 
+* **Fredo and Array Update**
